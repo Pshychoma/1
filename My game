@@ -15,11 +15,4 @@ public class RandomNumberGame {
         boolean hasGuessed = false;
         int minRange = 2;
         int maxRange = 100;
-        int secretNumber = random.nextInt(maxRange - minRange + 1) + minRange;
-        int attempts = 0;
-        boolean hasGuessed = false;
-        int minRange =3 ;
-        int maxRange = 100;
-        int secretNumber = random.nextInt(maxRange - minRange + 1) + minRange;
-        int attempts = 0;
-        boolean hasGuessed = false;
+     
